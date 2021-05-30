@@ -16,3 +16,4 @@ hello goudan! hello git! master test!
 hello goudan! hello git! hot-fix test!
 1111111111111111111111111111111111111
 222222222222222222222222222 by myself
+git 果然好用啊
